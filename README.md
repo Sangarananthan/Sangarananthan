@@ -23,3 +23,13 @@
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
+
+## <div align="center">⚙ GitHub Profile Stats :
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Sangarananthan&theme=react&show_icons=true&hide_border=true&count_private=true" alt="stats graph" width="400" /><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sangarananthan&theme=react&hide_border=true" alt="streak graph" width="400"/><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangarananthan&theme=react&show_icons=true&hide_border=true&layout=compact" alt="languages graph" width="400" />
+</div>
+
+<br>
