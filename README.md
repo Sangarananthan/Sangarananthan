@@ -26,10 +26,10 @@
 
 ## <div align="center">⚙ GitHub Profile Stats :
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sangarananthan&theme=react&show_icons=true&hide_border=true&count_private=true" alt="stats graph" width="400" /><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sangarananthan&theme=react&hide_border=true" alt="streak graph" width="400"/><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangarananthan&theme=react&show_icons=true&hide_border=true&layout=compact" alt="languages graph" width="400" />
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sangarananthan&theme=react&show_icons=true&hide_border=true&count_private=true" alt="stats graph" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sangarananthan&theme=react&hide_border=true" alt="streak graph" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangarananthan&theme=react&show_icons=true&hide_border=true&layout=compact" alt="languages graph" width="400" />
 </div>
 
 <br>
